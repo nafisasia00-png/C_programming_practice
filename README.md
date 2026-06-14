@@ -7,6 +7,7 @@ This repository contains my C programming practice codes.
 - Area of Rectangle
 - area of circle
 - simple interest
+- Celsius to fahrenheit
 - Even/Odd Check
 - Factorial
 - Calculator
