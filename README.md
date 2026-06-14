@@ -6,6 +6,7 @@ This repository contains my C programming practice codes.
 - Area of Square
 - Area of Rectangle
 - area of circle
+- simple interest
 - Even/Odd Check
 - Factorial
 - Calculator
