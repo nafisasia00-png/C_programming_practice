@@ -8,6 +8,7 @@ This repository contains my C programming practice codes.
 - area of circle
 - simple interest
 - Celsius to fahrenheit
+- divisible by 2 or not
 - Even/Odd Check
 - Factorial
 - Calculator
