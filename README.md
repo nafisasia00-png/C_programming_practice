@@ -15,6 +15,7 @@ This repository contains my C programming practice codes.
 
 ## Patterns-Loops
 - write "hellow world" 100 time using for loop
+- print 0 to n if n is given by user
 - star_pattern.c
 - pyramid.c
 - number_pattern.c 
