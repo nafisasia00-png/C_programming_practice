@@ -1,6 +1,6 @@
 # C Programming Practice
 
-This repository contains my C programming practice codes.
+This repository contains my C programming practice codes and problem-solving programs.
 
 ## Program-basics
 - Area of Square
@@ -41,3 +41,11 @@ This repository contains my C programming practice codes.
 - simple_banking.c
 - number_guess_game.c
 - basic_calculator.c
+
+
+## Purpose
+This repository is created to improve my programming skills and document my learning journey as a Computer Science & Engineering student.
+
+## Author
+**Nafisa Hossain**
+CSE Student | Prime University
