@@ -22,6 +22,7 @@ This repository contains my C programming practice codes.
 - number_pattern.c 
 - reverse_number.c
 - until user enter number multiple of 7
+- Demonstrate continue statement in C
 
 ## Functions
 - add_function.c
