@@ -21,6 +21,7 @@ This repository contains my C programming practice codes.
 - pyramid.c
 - number_pattern.c 
 - reverse_number.c
+- until user enter number multiple of 7
 
 ## Functions
 - add_function.c
