@@ -6,6 +6,7 @@ This repository contains my C programming practice codes and problem-solving pro
 - Sizeof-Data-Types
 - Area of Square
 - Area of Rectangle
+- multiplication table
 - area of circle
 - simple interest
 - Celsius to fahrenheit
