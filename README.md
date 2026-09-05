@@ -13,6 +13,7 @@ This repository contains my C programming practice codes and problem-solving pro
 - Even/Odd Check
 - Factorial
 - Calculator
+- Arithmetic Operators
 
 ## Patterns-Loops
 - write "hellow world" 100 time using for loop
