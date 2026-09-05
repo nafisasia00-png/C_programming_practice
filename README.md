@@ -3,6 +3,7 @@
 This repository contains my C programming practice codes and problem-solving programs.
 
 ## Program-basics
+- Sizeof-Data-Types
 - Area of Square
 - Area of Rectangle
 - area of circle
