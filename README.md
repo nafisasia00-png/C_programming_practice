@@ -15,6 +15,7 @@ This repository contains my C programming practice codes and problem-solving pro
 - Factorial
 - Calculator
 - Arithmetic Operators
+- subject_pass_reward
 
 ## Patterns-Loops
 - write "hellow world" 100 time using for loop
