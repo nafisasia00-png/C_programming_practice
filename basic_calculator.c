@@ -8,3 +8,18 @@ int main() {
 
     if(op == '+')
         printf("%.2f\n", a + b);
+
+    else if(op == '-')
+        printf("%.2f\n", a - b);
+
+    else if(op == '*')
+        printf("%.2f\n", a * b);
+
+    else if(op == '/')
+        printf("%.2f\n", a / b);
+
+    else
+        printf("Invalid operator");
+
+    return 0;
+}
